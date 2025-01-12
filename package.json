@@ -1,0 +1,20 @@
+{
+  "name": "hello-websockets",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "scripts": {
+    "start": "bun dist/client.js",
+    "build": "tsc -p tsconfig.json && cp src/index.html dist/index.html",
+    "lint": "eslint .",
+    "serve": "bun dist/server.js"
+  },
+  "dependencies": {
+    "eslint": "^9.18.0"
+  }
+}
