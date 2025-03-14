@@ -33,8 +33,7 @@
         "christian-kohler.npm-intellisense",
         "YoavBls.pretty-ts-errors",
         "rust-lang.rust-analyzer",
-        "streetsidesoftware.code-spell-checker",
-        "dustypomerleau.rust-syntax"
+        "streetsidesoftware.code-spell-checker"
       ]
     }
   },

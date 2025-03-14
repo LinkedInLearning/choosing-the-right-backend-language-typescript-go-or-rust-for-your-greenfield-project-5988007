@@ -2,6 +2,17 @@
 
 This is the repository for the LinkedIn Learning course Choosing the Right Backend Language: TypeScript, Go, or Rust for Your Greenfield Project. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+In this course, instructor Tai Groot helps you evaluate Golang, Rust, and TypeScript to determine which language is best suited for a greenfield project. Compare the performance, scalability, and safety features of these languages, using real-world use cases and examples. Learn to identify and rank relevant project needs as deciding factors towards the language choice. By the end, you will be able to confidently recommend the right programming language for any greenfield project.
+
+Learning objectives
+- Confidently choose the correct language for new projects.
+- Justify or argue against refactoring codebases to switch languages.
+- Communicate intelligently with peers about language design, and about tradeoffs between languages.
+- Cite real-world examples of companies who publicly pivoted and changed languages for their code, as well as the reasons why.
+- Recognize the different languages by their syntax.
+
 _See the readme file in the main branch for updated instructions and information._
 
 ## Instructions
@@ -37,7 +48,19 @@ To resolve this issue:
     - For TypeScript: `bun install`
 5. Follow the instructions in the [course][lil-course-url] to switch to the appropriate branch for each exercise.
 
+## Instructor
+
+Tai Groot
+
+Lead Software Engineer at Cellpoint Systems, Inc.
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/tai-groot).
+
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/choosing-the-right-back-end-language-typescript-go-or-rust-for-your-greenfield-project
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFH6Tid4hJAkw/learning-public-crop_675_1200/B4EZUpiQdJH0AY-/0/1740158601278?e=2147483647&v=beta&t=lPNCpCywMuIaH-96JNGitNMM8LLhG9tFGPUlbs49LCQ
+
+
